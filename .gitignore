@@ -21,3 +21,4 @@ logs/
 
 # Dependencias de desarrollo
 devDependencies/
+.env
