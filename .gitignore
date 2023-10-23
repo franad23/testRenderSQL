@@ -1,0 +1,23 @@
+# Archivos y carpetas generados por Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Carpeta generada por el comando `npm start`
+/.dynamodb
+
+# Logs
+logs/
+*.log
+
+# Archivos generados por TypeScript
+/dist/
+*.tsbuildinfo
+
+# Carpeta generada por Visual Studio Code
+.vscode/
+
+# Dependencias de desarrollo
+devDependencies/
